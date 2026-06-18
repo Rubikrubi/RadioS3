@@ -375,7 +375,6 @@ W kodzie zastosowano kilka mechanizmów poprawiających niezawodność:
 RadioS3/
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── RadioS3.ino
 └── foto.png
 ```
@@ -411,7 +410,7 @@ Projekt może służyć jako:
 ---
 ## AI assistance
 
-Część kodu, refaktoryzacja oraz dokumentacja projektu były przygotowywane z pomocą modelu AI Claude Code.Ostateczne sprawdzenie, testy na urządzeniu oraz publikację wykonał autor repozytorium.
+Część kodu, refaktoryzacja oraz dokumentacja projektu były przygotowywane z pomocą modelu AI Claude Code. Ostateczne sprawdzenie, testy na urządzeniu oraz publikację wykonał autor repozytorium.
 
 ---
 
