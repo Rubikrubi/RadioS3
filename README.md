@@ -373,8 +373,9 @@ W kodzie zastosowano kilka mechanizmów poprawiających niezawodność:
 
 ```text
 RadioS3/
-├── README.md
+├── .gitignore
 ├── LICENSE
+├── RADME.md
 ├── RadioS3.ino
 └── foto.png
 ```
