@@ -417,8 +417,8 @@ Część kodu, refaktoryzacja oraz dokumentacja projektu były przygotowywane z 
 
 ## Autor
 
-Projekt: **RadioS3 v1.1**
-Autor: **Rubikrubi**
+Projekt: **RadioS3 v1.1**<br>
+Autor: **Rubikrubi**<br>
 GitHub: [github.com/Rubikrubi](https://github.com/Rubikrubi)
 
 
