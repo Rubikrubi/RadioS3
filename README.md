@@ -418,7 +418,7 @@ Część kodu, refaktoryzacja oraz dokumentacja projektu były przygotowywane z 
 
 Projekt posiada 2 wersje dostępne w zakładce **Releases**:
 
-- v1.0
+- v1.1
 - v2.0
 
 Najnowszą wersję kodu najlepiej pobrać z zakładki **Releases**.
