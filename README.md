@@ -414,7 +414,16 @@ Projekt może służyć jako:
 Część kodu, refaktoryzacja oraz dokumentacja projektu były przygotowywane z pomocą modelu AI Claude Code. Ostateczne sprawdzenie, testy na urządzeniu oraz publikację wykonał autor repozytorium.
 
 ---
+## Releases
 
+Projekt posiada 2 wersje dostępne w zakładce **Releases**:
+
+- v1.0
+- v2.0
+
+Najnowszą wersję kodu najlepiej pobrać z zakładki **Releases**.
+
+---
 ## Autor
 
 Projekt: **RadioS3 v1.1**<br>
